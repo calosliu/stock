@@ -1,0 +1,17 @@
+.git
+.github
+.gitignore
+
+.idea
+.vscode
+
+*.md
+*.bat
+
+img
+docker
+cache
+log
+test
+
+__pycache__
